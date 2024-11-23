@@ -73,9 +73,9 @@ Add tasks by typing them into the input field and clicking "Add".
 Mark tasks as completed by clicking on them.
 Delete tasks by clicking the "×" next to them.
 The tasks will be saved automatically and will persist after page reloads.
-Screenshots
-Example Task List:
+## Screenshots
 
+Example Task List: ![Task List Screenshot](https://github.com/Ahm3d0x/Task-List-Application--js--css--html/blob/main/image.png)
 
 License
 ## This project is open-source and available under the MIT License.
